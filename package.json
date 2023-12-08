@@ -6,7 +6,7 @@
 	"scripts": {
 		"dev": "vite",
 		"dev:dev": "vite dev --mode development",
-		"start": "npm run dev",
+		"start": "pnpm run dev",
 		"build": "vue-tsc && vite build",
 		"build:dev": "vue-tsc && vite build --mode development",
 		"build:test": "vue-tsc && vite build --mode test",
